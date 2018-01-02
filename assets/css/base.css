@@ -1,0 +1,22 @@
+ body{
+           
+               background-repeat: no-repeat;
+               background-size: 100%;
+                
+            }
+            
+          
+                 .formContainer{
+                     padding:30px;
+                     border-radius:30px;
+                     border: 1px solid white;
+                     background-color: rgba(170,170,170,0.9);
+                     transition:all .5s;
+                 }
+                 
+                 .formContainer:hover{
+                     background-color: rgba(100,100,100,1);
+                 }
+                 
+                 .formContainer h3{color:white}
+                 .btn-success{border:1px solid blue;background-color: blue}
