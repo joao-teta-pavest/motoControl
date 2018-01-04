@@ -63,7 +63,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
                     <a href="#">Apoio Técnico</a>
                 </li>
                 <li>
-                    <a href="#">Sair</a>
+                    <a href="<?php echo site_url("Login_ctrl");?>">Sair</a>
                 </li>
              
             </ul>
