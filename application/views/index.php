@@ -62,6 +62,9 @@ defined('BASEPATH') or exit('No direct script access allowed');
                 <li>
                     <a href="#">Apoio Técnico</a>
                 </li>
+                <li>
+                    <a href="#">Sair</a>
+                </li>
              
             </ul>
         </nav>
