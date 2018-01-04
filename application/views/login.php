@@ -17,13 +17,10 @@
 
 
 <link rel="stylesheet"
-	href=" <?php echo base_url('assets/css/base.css');?> ">
-<link rel="stylesheet"
-	href=" <?php echo base_url('assets/css/MudaImagem.css');?> ">
-<link rel="stylesheet"
-	href=" <?php echo base_url('assets/css/menu.css');?> ">
+	href=" <?php echo base_url('assets/css/baseLogin.css');?> ">
+
 </head>
-<body>
+<body >
 <div>
    
             <div class="row" style="margin-top:10%">
